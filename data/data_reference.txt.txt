@@ -1,0 +1,4 @@
+Dataset: Bank Marketing Dataset 
+Source: UCI Machine Learning Repository 
+File used: bank-full.csv 
+Link: https://archive.ics.uci.edu/ml/datasets/Bank+Marketing
